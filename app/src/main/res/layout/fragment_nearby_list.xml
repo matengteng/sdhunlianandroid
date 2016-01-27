@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="newairtek.com.marryandroid.fragment.NearbyListFragment">
+
+    <newair.com.marriagenetwork.widget.pullableview.PullToRefreshLayout
+        android:id="@+id/ptrl_refresh_nearbyList_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include layout="@layout/refresh_head"/>
+
+        <newair.com.marriagenetwork.widget.pullableview.PullableListView
+            android:id="@+id/plv_refresh_nearbyList_fragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </newair.com.marriagenetwork.widget.pullableview.PullableListView>
+
+        <include layout="@layout/load_more"/>
+
+    </newair.com.marriagenetwork.widget.pullableview.PullToRefreshLayout>
+
+</RelativeLayout>

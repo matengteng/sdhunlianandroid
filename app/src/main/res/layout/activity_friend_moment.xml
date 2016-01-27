@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="newairtek.com.marryandroid.activity.FriendMomentActivity">
+
+    <RelativeLayout
+        android:id="@+id/friend_action_bar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/rl_actionbar_back_color"
+        tools:ignore="UselessParent">
+        <ImageView
+            android:id="@+id/iv_finish_friendMomentActivity"
+            android:layout_width="?attr/actionBarSize"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_launcher"
+            android:layout_centerVertical="true"
+            android:onClick="widgetClick"
+            tools:ignore="ContentDescription" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="朋友圈"
+            android:textSize="20sp"
+            android:layout_centerInParent="true"/>
+        <ImageView
+            android:id="@+id/iv_edit_friendMoment_activity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_launcher"
+            tools:ignore="ContentDescription" />
+    </RelativeLayout>
+    <newair.com.marriagenetwork.widget.pullableview.PullToRefreshLayout
+        android:id="@+id/ptrl_refresh_friendMoment_activity"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/friend_action_bar">
+
+        <include layout="@layout/refresh_head"/>
+
+        <newair.com.marriagenetwork.widget.pullableview.PullableExpandableListView
+            android:id="@+id/plv_refresh_friend_activity"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </newair.com.marriagenetwork.widget.pullableview.PullableExpandableListView>
+
+        <include layout="@layout/load_more"/>
+
+    </newair.com.marriagenetwork.widget.pullableview.PullToRefreshLayout>
+
+
+</RelativeLayout>

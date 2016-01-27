@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="newairtek.com.marryandroid.activity.MineAttentionActivity">
+
+    <RelativeLayout
+        android:id="@+id/mine_attention_action_bar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/rl_actionbar_back_color"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:id="@+id/iv_finish_mineAttentionActivity"
+            android:layout_width="?attr/actionBarSize"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_launcher"
+            android:layout_centerVertical="true"
+            android:onClick="widgetClick"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="我关注的"
+            android:textSize="20sp"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+
+    <newair.com.marriagenetwork.widget.pullableview.PullToRefreshLayout
+        android:id="@+id/ptrl_refresh_mineAttentionActivity"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/mine_attention_action_bar">
+
+        <include layout="@layout/refresh_head" />
+
+        <newair.com.marriagenetwork.widget.pullableview.PullableListView
+            android:id="@+id/plv_refresh_me_attention_activity"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </newair.com.marriagenetwork.widget.pullableview.PullableListView>
+
+        <include layout="@layout/load_more" />
+
+    </newair.com.marriagenetwork.widget.pullableview.PullToRefreshLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!--
+            朋友圈头布局、相册头布局
+     -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:ignore="UselessLeaf,UselessParent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            tools:ignore="UselessParent"
+            android:background="#ff54bfff">
+            <ImageView
+                android:id="@+id/iv_back_friendMoment_list_head"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="fitXY"
+                android:background="#fff44074"
+                tools:ignore="ContentDescription" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                tools:ignore="UseCompoundDrawables"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginRight="30dp"
+                android:layout_marginLeft="30dp">
+                <TextView
+                    android:id="@+id/tv_name_friendMoment_list_head"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="名称名称"/>
+                <ImageView
+                    android:id="@+id/iv_head_friendMoment_list_head"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:background="#000"
+                    tools:ignore="ContentDescription" />
+            </LinearLayout>
+        </RelativeLayout>
+
+    </LinearLayout>
+</LinearLayout>

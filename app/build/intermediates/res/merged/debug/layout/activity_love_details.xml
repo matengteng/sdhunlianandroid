@@ -1,0 +1,73 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="newairtek.com.marryandroid.activity.LoveDetailsActivity">
+
+    <RelativeLayout
+        android:id="@+id/details_action_bar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/rl_actionbar_back_color"
+        tools:ignore="UselessParent">
+        <ImageView
+            android:id="@+id/iv_finish_detailsActivity"
+            android:layout_width="?attr/actionBarSize"
+            android:layout_height="match_parent"
+            android:src="@drawable/ic_launcher"
+            android:layout_centerVertical="true"
+            android:onClick="widgetClick"
+            tools:ignore="ContentDescription" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="活动详情"
+            android:textSize="20sp"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+
+    <newair.com.marriagenetwork.widget.pullableview.PullToRefreshLayout
+        android:id="@+id/ptrl_refresh_loveDetails_activity"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/details_action_bar">
+
+        <include layout="@layout/refresh_head"/>
+
+        <newair.com.marriagenetwork.widget.pullableview.PullableListView
+            android:id="@+id/plv_refresh_loveDetails_activity"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/details_action_bar">
+        </newair.com.marriagenetwork.widget.pullableview.PullableListView>
+
+        <include layout="@layout/load_more"/>
+
+    </newair.com.marriagenetwork.widget.pullableview.PullToRefreshLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_vertical">
+
+        <EditText
+            android:id="@+id/et_content_loveDetails_activity"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:hint="输入框"/>
+
+        <ImageView
+            android:id="@+id/iv_push_love_details_activity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_launcher"
+            tools:ignore="ContentDescription" />
+
+    </LinearLayout>
+
+</RelativeLayout>

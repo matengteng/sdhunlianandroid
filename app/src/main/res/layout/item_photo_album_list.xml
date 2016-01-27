@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!-- 相册Item的布局 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:ignore="DisableBaselineAlignment">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center_horizontal">
+        <TextView
+            android:id="@+id/tv_day_photo_album_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="06"
+            android:textSize="20sp"
+            android:textColor="#000"/>
+        <TextView
+            android:id="@+id/tv_month_photo_album_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1月"
+            android:textSize="12sp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:orientation="horizontal"
+        tools:ignore="UseCompoundDrawables">
+        <ImageView
+            android:id="@+id/iv_img_photo_album_item"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:background="#d0d33e87"
+            tools:ignore="ContentDescription" />
+        <TextView
+            android:id="@+id/tv_title_photo_album_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:text="嘿，那我们，江湖不见"
+            android:textSize="16sp"/>
+    </LinearLayout>
+
+</LinearLayout>

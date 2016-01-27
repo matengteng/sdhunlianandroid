@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!--
+        主页公告的Item布局
+     -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:id="@+id/rl_notice_homeFragment_list"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:background="@drawable/rl_pressed_style_fragment"
+        tools:ignore="UselessParent">
+
+        <ImageView
+            android:id="@+id/iv_notice_img_homeFragment_list"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/ic_launcher"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:scaleType="fitXY"
+            android:layout_centerVertical="true"
+            tools:ignore="ContentDescription" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginLeft="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_toRightOf="@+id/iv_notice_img_homeFragment_list"
+            android:layout_toEndOf="@+id/iv_notice_img_homeFragment_list"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/tv_notice_title_homeFragment_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="公告题目" />
+
+            <TextView
+                android:id="@+id/tv_notice_time_homeFragment_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="2016-01-19 12:12:12" />
+        </LinearLayout>
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/ic_launcher"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="16dp"
+            android:layout_marginEnd="16dp"
+            tools:ignore="ContentDescription" />
+    </RelativeLayout>
+</LinearLayout>

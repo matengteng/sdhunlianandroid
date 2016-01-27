@@ -1,0 +1,219 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="newairtek.com.marryandroid.fragment.HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/rl_actionbar_back_color"
+            tools:ignore="UselessParent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="首页"
+                android:textSize="20sp"
+                android:layout_centerInParent="true" />
+
+        </RelativeLayout>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:orientation="vertical">
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <android.support.v4.view.ViewPager
+                        android:id="@+id/vp_slide_container_homeFragment"
+                        android:layout_width="match_parent"
+                        android:layout_height="200dp"
+                        android:background="#fff40f6a" />
+
+                </FrameLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    tools:ignore="UselessLeaf">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:background="#ffd0d0d0">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="公告"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="16dp"
+                            android:layout_marginStart="16dp" />
+                    </LinearLayout>
+                    <newair.com.marriagenetwork.widget.helper.ListViewForScrollView
+                        android:id="@+id/lv_notice_homeFragment"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                    </newair.com.marriagenetwork.widget.helper.ListViewForScrollView>
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    tools:ignore="UselessLeaf">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:background="#ffd0d0d0">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="活动"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="16dp"
+                            android:layout_marginStart="16dp" />
+                    </LinearLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/rl_happy_homeFragment"
+                        android:layout_width="match_parent"
+                        android:layout_height="90dp"
+                        android:background="@drawable/rl_pressed_style_fragment">
+
+                        <ImageView
+                            android:id="@+id/iv_happy_img_homeFragment"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:src="@drawable/ic_launcher"
+                            android:layout_marginLeft="16dp"
+                            android:layout_marginStart="16dp"
+                            android:layout_centerVertical="true"
+                            tools:ignore="ContentDescription" />
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="16dp"
+                            android:layout_marginStart="16dp"
+                            android:orientation="vertical"
+                            android:layout_toRightOf="@+id/iv_happy_img_homeFragment"
+                            android:layout_toEndOf="@+id/iv_happy_img_homeFragment"
+                            android:gravity="center_vertical">
+
+                            <TextView
+                                android:id="@+id/tv_happy_title_homeFragment"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="欢乐趴" />
+
+                            <TextView
+                                android:id="@+id/tv_happy_time_homeFragment"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="15dp"
+                                android:text="2016-01-19 12:12:12" />
+                        </LinearLayout>
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_alignParentEnd="true"
+                            android:src="@drawable/ic_launcher"
+                            android:layout_centerVertical="true"
+                            android:layout_marginRight="16dp"
+                            android:layout_marginEnd="16dp"
+                            tools:ignore="ContentDescription" />
+                    </RelativeLayout>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:background="@color/item_line_back_color" />
+
+                    <RelativeLayout
+                        android:id="@+id/rl_love_homeFragment"
+                        android:layout_width="match_parent"
+                        android:layout_height="90dp"
+                        android:background="@drawable/rl_pressed_style_fragment">
+
+                        <ImageView
+                            android:id="@+id/iv_love_img_homeFragment"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:src="@drawable/ic_launcher"
+                            android:layout_marginLeft="16dp"
+                            android:layout_marginStart="16dp"
+                            android:scaleType="fitXY"
+                            android:layout_centerVertical="true"
+                            tools:ignore="ContentDescription" />
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="16dp"
+                            android:layout_marginStart="16dp"
+                            android:orientation="vertical"
+                            android:layout_toRightOf="@+id/iv_love_img_homeFragment"
+                            android:layout_toEndOf="@+id/iv_love_img_homeFragment"
+                            android:gravity="center_vertical">
+
+                            <TextView
+                                android:id="@+id/tv_love_title_homeFragment"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="遇见爱" />
+
+                            <TextView
+                                android:id="@+id/tv_love_time_homeFragment"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="15dp"
+                                android:text="2016-01-19 12:12:12" />
+                        </LinearLayout>
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_alignParentEnd="true"
+                            android:src="@drawable/ic_launcher"
+                            android:layout_centerVertical="true"
+                            android:layout_marginRight="16dp"
+                            android:layout_marginEnd="16dp"
+                            tools:ignore="ContentDescription" />
+                    </RelativeLayout>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:background="@color/item_line_back_color" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+
+
+    </LinearLayout>
+</RelativeLayout>

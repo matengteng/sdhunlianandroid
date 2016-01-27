@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!-- Item点击的交互 -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true"
+        android:drawable="@color/rl_pressed_true_color"/>
+    <item android:state_pressed="false"
+        android:drawable="@android:color/transparent"/>
+</selector>

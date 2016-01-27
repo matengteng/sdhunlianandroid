@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- pullableview -->
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="refreshing">正在刷新...</string>
+    <string name="refresh_succeed">刷新成功</string>
+    <string name="refresh_fail">刷新失败</string>
+    <string name="pullup_to_load">上拉加载更多</string>
+    <string name="release_to_load">释放立即加载</string>
+    <string name="loading">正在加载...</string>
+    <string name="load_succeed">加载成功</string>
+    <string name="load_fail">加载失败</string>
+
+
+    <string name="app_name">婚恋网</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="rbtn_homepage_main_text">首页</string>
+    <string name="rbtn_find_main_text">发现</string>
+    <string name="rbtn_chat_main_text">爱聊</string>
+    <string name="rbtn_mine_main_text">我的</string>
+    <string name="title_activity_notice">NoticeActivity</string>
+    <string name="title_activity_happy">HappyActivity</string>
+    <string name="title_activity_love">LoveActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_attention_mine">AttentionMineActivity</string>
+    <string name="title_activity_mine_attention">MineAttentionActivity</string>
+    <string name="title_activity_photo_album">PhotoAlbumActivity</string>
+    <string name="title_activity_setting_avtivity">SettingAvtivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_friend_moment">FriendMomentActivity</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="title_activity_nearby">NearbyActivity</string>
+    <string name="title_activity_recomment">RecommentActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_user_info">UserInfoActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_complete_info">CompleteInfoActivity</string>
+    <string name="title_activity_love_details">LoveDetailsActivity</string>
+    <string name="title_activity_search_result">SearchResultActivity</string>
+    <string name="title_activity_peo_info_from_search">PeoInfoFromSearchActivity</string>
+    <string name="title_activity_staff_audit">StaffAuditActivity</string>
+
+</resources>

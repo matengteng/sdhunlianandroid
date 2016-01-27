@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!--
+        遇见爱活动详情list_item
+     -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:ignore="DisableBaselineAlignment">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        tools:ignore="UseCompoundDrawables">
+        <ImageView
+            android:id="@+id/iv_img_loveDetails_item"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:background="#ffff3a47"
+            tools:ignore="ContentDescription" />
+        <TextView
+            android:id="@+id/tv_name_loveDetails_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="张三"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingTop="10dp">
+        <LinearLayout
+            android:id="@+id/ll_container_love_details_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="回复"/>
+            <TextView
+                android:id="@+id/tv_reply_name_loveDetails_item"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="李四"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=":"/>
+        </LinearLayout>
+        <TextView
+            android:id="@+id/tv_content_loveDetails_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="啥片都可以"
+            android:layout_toRightOf="@+id/ll_container_love_details_item"
+            android:layout_toLeftOf="@+id/tv_time_loveDetails_item"
+            tools:ignore="RtlHardcoded" />
+        <TextView
+            android:id="@+id/tv_time_loveDetails_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="08-31 19:25"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"/>
+    </RelativeLayout>
+
+
+</LinearLayout>

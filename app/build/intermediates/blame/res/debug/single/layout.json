@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_happy.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_happy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wait_audit.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\fragment_wait_audit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mine.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\fragment_mine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_condition_search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\fragment_condition_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popup_window_search_info_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\popup_window_search_info_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_complete_info.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_complete_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_attention_mine.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_attention_mine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_search_result_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\item_search_result_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nearby.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_nearby.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mine_attention.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_mine_attention.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_recomment_activity_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\item_recomment_activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_nearby_map.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\fragment_nearby_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\load_more.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\load_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\cn.pedant.sweetalert\\library\\1.3\\res\\layout\\alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_name_search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\fragment_name_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head_search_result_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\head_search_result_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_chat_fragment_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\item_chat_fragment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_recomment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_recomment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nifty_dialog_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\nifty_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_already_audit.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\fragment_already_audit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_info.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_user_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_nearby_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\fragment_nearby_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_photo_album_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\item_photo_album_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_friend_moment.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_friend_moment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_happy_activity_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\item_happy_activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head_friend_moment_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\head_friend_moment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_love_details_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\item_love_details_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_peo_info_from_search.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_peo_info_from_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_notice_home_fragment_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\item_notice_home_fragment_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_love_details.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_love_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_result.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_search_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_staff_audit.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_staff_audit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_person_login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\fragment_person_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_friend_activity_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\item_friend_activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_love.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_love.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_avtivity.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_setting_avtivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notice.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_find.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\fragment_find.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo_album.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\activity_photo_album.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head_love_details_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\head_love_details_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_company_login.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\fragment_company_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.2\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_love_activity_list.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\sdhunlianandroid\\app\\src\\main\\res\\layout\\item_love_activity_list.xml"
+    }
+]
